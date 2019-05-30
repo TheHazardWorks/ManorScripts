@@ -20,6 +20,12 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
+
+// ===============================================================================
+// This script was inspired by my lovely ladies Pot Smoker Maned Wolf - Maxxie
+// ===============================================================================
+// Requires: This Module Requires No Node Modules
+// ===============================================================================
 class Stash {
     constructor(prefix) {
         this.prefix = (!prefix) ? 'stash:' : prefix;
