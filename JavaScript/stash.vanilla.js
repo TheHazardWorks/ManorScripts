@@ -23,7 +23,7 @@
 // ===============================================================================
 // This script was inspired by my lovely ladies Pot Smoker Maned Wolf - Maxxie
 // ===============================================================================
-// Requires: This Module Requires No Node Modules
+// Requires: This script requires no Node Modules
 // ===============================================================================
 class Stash {
     constructor(prefix) {
