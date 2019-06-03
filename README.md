@@ -9,5 +9,5 @@ The [TypeScript](https://github.com/YourNetworkNerd/ManorScripts/tree/master/Typ
 The [JavaScript](https://github.com/YourNetworkNerd/ManorScripts/tree/master/JavaScript) is compiled TypeScript.
 
 ## Current Files
-- "Stash": An extension for browser localStorage
-- "FasionableBBC": A BBCode Parser for Chat Systems
+- [Stash](https://github.com/YourNetworkNerd/ManorScripts/blob/master/TypeScript/stash.vanilla.ts): An extension for browser localStorage
+- [FasionableBBC](https://github.com/YourNetworkNerd/ManorScripts/blob/master/TypeScript/fasionablebbc.vanilla.ts): A BBCode Parser for Chat Systems
