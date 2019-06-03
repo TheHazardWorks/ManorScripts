@@ -10,4 +10,4 @@ The [JavaScript](https://github.com/YourNetworkNerd/ManorScripts/tree/master/Jav
 
 ## Current Files
 - [Stash](https://github.com/YourNetworkNerd/ManorScripts/blob/master/TypeScript/stash.vanilla.ts): An extension for browser localStorage
-- [FasionableBBC](https://github.com/YourNetworkNerd/ManorScripts/blob/master/TypeScript/fasionablebbc.vanilla.ts): A BBCode Parser for Chat Systems
+- [FashionableBBC](https://github.com/YourNetworkNerd/ManorScripts/blob/master/TypeScript/fashionablebbc.vanilla.ts): A BBCode Parser for Chat Systems
