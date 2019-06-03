@@ -87,3 +87,4 @@ class Stash {
         });
     }
 }
+//# sourceMappingURL=stash.vanilla.js.map
