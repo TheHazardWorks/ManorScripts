@@ -7,3 +7,7 @@ by my loving girlfriend and friends. This repository will be used to store this 
 
 The [TypeScript](https://github.com/YourNetworkNerd/ManorScripts/tree/master/TypeScript) folder is coded raw.
 The [JavaScript](https://github.com/YourNetworkNerd/ManorScripts/tree/master/JavaScript) is compiled TypeScript.
+
+## Current Files
+- "Stash": An extension for browser localStorage
+- "FasionableBBC": A BBCode Parser for Chat Systems
